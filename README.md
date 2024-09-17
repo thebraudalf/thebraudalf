@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thebraudalf" alt="thebraudalf" /></a> </p>
 
-- 🌱 I’m currently working on **FixMate AI** and learning **NodeJs and ReactJs**
+- 🌱 I’m currently working on **FixMate AI** and learning **NodeJs and Java**
 
 - 📫 How to reach me **jainnehal456@gmail.com**
 
