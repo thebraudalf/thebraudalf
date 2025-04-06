@@ -5,7 +5,7 @@
 [![Nehal Jain profile views](https://u8views.com/api/v1/github/profiles/163912970/views/day-week-month-total-count.svg)](https://u8views.com/github/thebraudalf)
 
 # 💫 About Me:
-🔭 I'm currently working on some projects related backend in JS and GenAI <br>👯 I'm looking to collaborate on Hackathons and projects<br>🌱 I’m currently learning langchain to build GenAI apps<br>💬 Ask me about MERN Stack, GenAI Dev and DevOps
+🔭 I'm currently working on some projects related backend in JS and GenAI <br>👯 I'm looking to collaborate on Hackathons and projects<br>🌱 I’m currently learning LangChain to build GenAI apps<br>💬 Ask me about MERN Stack, GenAI Dev and DevOps<br>🎉 Wish me on 3rd November!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_braudalf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nehaljain05) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thebraudalf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainnehal456@gmail.com)
