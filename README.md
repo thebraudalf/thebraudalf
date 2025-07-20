@@ -8,7 +8,7 @@
 <h3 align="center">A aspiring software developer from India</h3>
 
 # 💫 About Me:
-🔭 I'm currently working on some projects related backend in JS and GenAI <br>👯 I'm looking to collaborate on Hackathons and projects<br>🌱 I’m currently learning LangChain to build GenAI apps<br>💬 Ask me about MERN Stack, GenAI Dev and DevOps
+🔭 I'm currently working on some projects related backend in JS and GenAI <br>👯 I'm looking to collaborate on Hackathons and projects<br>🌱 I’m currently learning GenAI to build apps<br>💬 Ask me about MERN Stack, GenAI Dev and DevOps
 
 ## 🎂 Birthday
 🎉 Wish me on 3rd November!
